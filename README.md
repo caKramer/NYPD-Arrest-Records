@@ -8,11 +8,11 @@ Pulled public data from NY City Government website, for 2025.
 
 Performed EDA and maintained 92,000 records post EDA.
 
-Includes:
+# Includes:
 
-EDA
-Visualizations
-Modeling
-Multiple Linear Regression
-Classification using Random Forest Classifier
-K-Means Clustering
+- EDA
+- Visualizations
+- Modeling
+  - Multiple Linear Regression
+  - Classification using Random Forest Classifier
+  - K-Means Clustering
